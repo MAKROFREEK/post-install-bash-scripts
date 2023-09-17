@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=mak
+Description=A modified version of Apple Mak Plymouth theme originally made by Nilotpal Biswas J
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/mak
+ScriptFile=/usr/share/plymouth/themes/mak/mak.script
